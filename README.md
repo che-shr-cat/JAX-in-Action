@@ -19,6 +19,7 @@ Notebooks for the chapters:
 5. [Compiling your code](Chapter-5)
    - [JIT compilation and more: JIT, Jaxpr, XLA, AOT](Chapter-5/JAX_in_Action_Chapter_5_JIT.ipynb)
 6. [Parallelizing and vectorizing your code](Chapter-6)
+7. more to come
 
 TBD
    
