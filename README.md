@@ -1,4 +1,4 @@
-# JAX-in-Action
+# "JAX in Action" book
 
 This is a repository accompanying the "[JAX in Action](https://www.manning.com/books/jax-in-action)" book. Feel free to use the promotional code **au35sap** for 35% discount for this book and any other Manning's product.
 
