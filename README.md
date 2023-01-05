@@ -23,3 +23,5 @@ Notebooks for the chapters:
 
 TBD
    
+
+Google ML Developer Programs team supported this work by providing Google Cloud Credit
