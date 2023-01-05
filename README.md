@@ -18,10 +18,11 @@ Notebooks for the chapters:
    - [Differentiating in JAX](Chapter-4/JAX_in_Action_Chapter_4_Differentiating_in_JAX.ipynb)
 5. [Compiling your code](Chapter-5)
    - [JIT compilation and more: JIT, Jaxpr, XLA, AOT](Chapter-5/JAX_in_Action_Chapter_5_JIT.ipynb)
-6. [Parallelizing and vectorizing your code](Chapter-6)
-7. more to come
+6. [Vectorizing your code](Chapter-6)
+   - [Different ways to vectorize a function, Controlling vmap() behavior, More real-life cases](Chapter-6/JAX_in_Action_Chapter_6_vmap.ipynb)
+7. [Parallelizing your computations](Chapter-7)
+8. more to come
 
 TBD
    
-
 Google ML Developer Programs team supported this work by providing Google Cloud Credit
