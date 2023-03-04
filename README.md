@@ -21,7 +21,13 @@ Notebooks for the chapters:
 6. [Vectorizing your code](Chapter-6)
    - [Different ways to vectorize a function, Controlling vmap() behavior, More real-life cases](Chapter-6/JAX_in_Action_Chapter_6_vmap.ipynb)
 7. [Parallelizing your computations](Chapter-7)
-8. more to come
+   - [Using pmap()](Chapter-7/JAX_in_Action_Chapter_7_pmap.ipynb)
+8. [Advanced parallelization](Chapter-8)
+   - [Using xmap()](Chapter-8/JAX_in_Action_Chapter_8_xmap.ipynb)
+   - [Using pjit()](Chapter-8/JAX_in_Action_Chapter_8_pjit.ipynb)
+   - [Tensor sharding](Chapter-8/JAX_in_Action_Chapter_8_Tensor_Sharding.ipynb)
+   - [Multi-host example](Chapter-8/worker.py)
+9. more to come
 
 TBD
    
