@@ -27,7 +27,9 @@ Notebooks for the chapters:
    - [Using pjit()](Chapter-8/JAX_in_Action_Chapter_8_pjit.ipynb)
    - [Tensor sharding](Chapter-8/JAX_in_Action_Chapter_8_Tensor_Sharding.ipynb)
    - [Multi-host example](Chapter-8/worker.py)
-9. more to come
+9. [Random numbers in JAX](Chapter-9)
+   - [Random augmentations, NumPy and JAX PRNGs](Chapter-9/JAX_in_Action_Chapter_9_Random_Numbers.ipynb)
+10. more to come
 
 TBD
    
