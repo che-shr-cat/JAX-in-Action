@@ -29,7 +29,7 @@ Notebooks for the chapters:
    - [Multi-host example](Chapter-8/worker.py)
 9. [Random numbers in JAX](Chapter-9)
    - [Random augmentations, NumPy and JAX PRNGs](Chapter-9/JAX_in_Action_Chapter_9_Random_Numbers.ipynb)
-9. [Complex structures in JAX/Pytrees](Chapter-10)
+10. [Complex structures in JAX/Pytrees](Chapter-10)
    - [Pytrees, jax.tree_util functions, custom nodes](Chapter-10/JAX_in_Action_Chapter_10_Pytrees.ipynb)
 11. more to come
 
