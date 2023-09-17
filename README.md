@@ -31,8 +31,12 @@ Notebooks for the chapters:
    - [Random augmentations, NumPy and JAX PRNGs](Chapter-9/JAX_in_Action_Chapter_9_Random_Numbers.ipynb)
 10. [Complex structures in JAX/Pytrees](Chapter-10)
    - [Pytrees, jax.tree_util functions, custom nodes](Chapter-10/JAX_in_Action_Chapter_10_Pytrees.ipynb)
-11. more to come
+11. [Higher-level neural network libraries](Chapter-11)
+   - [Using Flax: Simple MLP](Chapter-11/Chapter_11.1_MNIST_MLP_Flax_Simple.ipynb)
+   - [Using Flax: Simple MLP with TrainState](Chapter-11/Chapter_11.1_MNIST_MLP_Flax_TrainState.ipynb)
+   - [Using Flax: Adding metrics](Chapter-11/Chapter_11.1_MNIST_MLP_Flax_TrainState_with_metrics.ipynb)
+   - [Flax: ResNet example with model state](Chapter-11/Chapter_11.2_Flax_Cats_vs_Dogs_ResNet.ipynb)
+   - [HuggingFace Transformers: Using GPT-like models](Chapter-11/Chapter_11_3_HuggingFace_Using_GPT.ipynb)
+   - [HuggingFace Diffusers: Generating images with Stable Diffusion](Chapter-11/Chapter_11.3_HuggingFace_Using_Diffusers.ipynb)   
 
-TBD
-   
 Google ML Developer Programs team supported this work by providing Google Cloud Credit
