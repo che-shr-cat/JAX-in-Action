@@ -38,7 +38,7 @@ Notebooks for the chapters:
     - [HuggingFace Transformers: Using GPT-like models](Chapter-11/Chapter_11_3_HuggingFace_Using_GPT.ipynb)
     - [HuggingFace Diffusers: Generating images with Stable Diffusion](Chapter-11/Chapter_11.3_HuggingFace_Using_Diffusers.ipynb)
 13. [Appendix: Experimental parallelization](Appendix-D)
-   - [Using xmap()](Appendix-D/JAX_in_Action_Appendix_D_xmap.ipynb)
-   - [Using pjit()](Appendix-D/JAX_in_Action_Appendix_D_pjit.ipynb)
+    - [Using xmap()](Appendix-D/JAX_in_Action_Appendix_D_xmap.ipynb)
+    - [Using pjit()](Appendix-D/JAX_in_Action_Appendix_D_pjit.ipynb)
 
 Google ML Developer Programs team supported this work by providing Google Cloud Credit
