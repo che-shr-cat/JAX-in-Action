@@ -36,9 +36,9 @@ Notebooks for the chapters:
     - [Using Flax: Adding metrics](Chapter-11/Chapter_11.1_MNIST_MLP_Flax_TrainState_with_metrics.ipynb)
     - [Flax: ResNet example with model state](Chapter-11/Chapter_11.2_Flax_Cats_vs_Dogs_ResNet.ipynb)
     - [HuggingFace Transformers: Using GPT-like models](Chapter-11/Chapter_11_3_HuggingFace_Using_GPT.ipynb)
-    - [HuggingFace Diffusers: Generating images with Stable Diffusion](Chapter-11/Chapter_11.3_HuggingFace_Using_Diffusers.ipynb)   
+    - [HuggingFace Diffusers: Generating images with Stable Diffusion](Chapter-11/Chapter_11.3_HuggingFace_Using_Diffusers.ipynb)
 D. [Experimental parallelization](Appendix D)
-   - [Using xmap()](Appendix D/JAX_in_Action_Chapter_8_xmap.ipynb)
-   - [Using pjit()](Appendix D/JAX_in_Action_Chapter_8_pjit.ipynb)
+    - [Using xmap()](Appendix D/JAX_in_Action_Chapter_8_xmap.ipynb)
+    - [Using pjit()](Appendix D/JAX_in_Action_Chapter_8_pjit.ipynb)
 
 Google ML Developer Programs team supported this work by providing Google Cloud Credit
