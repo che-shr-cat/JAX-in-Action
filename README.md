@@ -23,11 +23,9 @@ Notebooks for the chapters:
    - [Different ways to vectorize a function, Controlling vmap() behavior, More real-life cases](Chapter-6/JAX_in_Action_Chapter_6_vmap.ipynb)
 7. [Parallelizing your computations](Chapter-7)
    - [Using pmap()](Chapter-7/JAX_in_Action_Chapter_7_pmap.ipynb)
-8. [Advanced parallelization](Chapter-8)
-   - [Using xmap()](Chapter-8/JAX_in_Action_Chapter_8_xmap.ipynb)
-   - [Using pjit()](Chapter-8/JAX_in_Action_Chapter_8_pjit.ipynb)
+   - [Multi-host example](Chapter-7/worker.py)
+8. [Parallelization using tensor sharding](Chapter-8)
    - [Tensor sharding](Chapter-8/JAX_in_Action_Chapter_8_Tensor_Sharding.ipynb)
-   - [Multi-host example](Chapter-8/worker.py)
 9. [Random numbers in JAX](Chapter-9)
    - [Random augmentations, NumPy and JAX PRNGs](Chapter-9/JAX_in_Action_Chapter_9_Random_Numbers.ipynb)
 10. [Complex structures in JAX/Pytrees](Chapter-10)
@@ -39,5 +37,8 @@ Notebooks for the chapters:
     - [Flax: ResNet example with model state](Chapter-11/Chapter_11.2_Flax_Cats_vs_Dogs_ResNet.ipynb)
     - [HuggingFace Transformers: Using GPT-like models](Chapter-11/Chapter_11_3_HuggingFace_Using_GPT.ipynb)
     - [HuggingFace Diffusers: Generating images with Stable Diffusion](Chapter-11/Chapter_11.3_HuggingFace_Using_Diffusers.ipynb)   
+D. [Experimental parallelization](Appendix D)
+   - [Using xmap()](Appendix D/JAX_in_Action_Chapter_8_xmap.ipynb)
+   - [Using pjit()](Appendix D/JAX_in_Action_Chapter_8_pjit.ipynb)
 
 Google ML Developer Programs team supported this work by providing Google Cloud Credit
