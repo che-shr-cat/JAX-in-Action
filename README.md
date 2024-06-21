@@ -41,4 +41,4 @@ Notebooks for the chapters:
     - [Using xmap()](Appendix-D/JAX_in_Action_Appendix_D_xmap.ipynb)
     - [Using pjit()](Appendix-D/JAX_in_Action_Appendix_D_pjit.ipynb)
 
-Google ML Developer Programs team supported this work by providing Google Cloud Credit
+Google AI/ML Developer Programs team supported this work by providing Google Cloud Credit.
